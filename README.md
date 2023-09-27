@@ -1,11 +1,11 @@
 # README
 
-## GROUP <add-group-name>
+## GROUP 1
 
-- Member 1: <add-name>
-- Member 2: <add-name>
-- Member 3: <add-name>
-- Member 4: <add-name>
+- Member 1: ngoc
+- Member 2: dung
+- Member 3: uyen
+- Member 4: vu
 
 ## Starting server
 
